@@ -68,6 +68,7 @@ $ python manage.py makemigrations             >>> This one creates the migration
 
 $ python manage.py migrate                    >>> This one performs the migration
 
+$ python manage.py createsuperuser            >>> To create the super user to manage the admin area
 
 
 # Step-3
