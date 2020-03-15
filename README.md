@@ -70,4 +70,7 @@ $ python manage.py migrate                    >>> This one performs the migratio
 
 
 
+
+
+
 P.S.: I will keep updating this place as i am progressing through this project.
