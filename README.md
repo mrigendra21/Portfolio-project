@@ -70,7 +70,8 @@ $ python manage.py migrate                    >>> This one performs the migratio
 
 
 
-
+# Step-3
+I am using postgres for database management. You can download it from here https://postgresapp.com/downloads.html
 
 
 P.S.: I will keep updating this place as i am progressing through this project.
